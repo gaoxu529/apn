@@ -1,13 +1,12 @@
 {
-    "name": "laravel-notification-channels/apn",
+    "name": "risingsun/laravel-notification-channel-apn",
     "description": "Apple APN Push Notification Channel",
-    "homepage": "https://github.com/laravel-notification-channels/apn",
+    "homepage": "https://github.com/gaoxu529/apn",
     "license": "MIT",
     "authors": [
         {
-            "name": "Fruitcake",
-            "email": "info@fruitcake.nl",
-            "homepage": "https://fruitcake.nl"
+            "name": "gaoxu",
+            "email": "gaoxu529@126.com"
         }
     ],
     "require": {

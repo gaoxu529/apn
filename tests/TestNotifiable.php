@@ -14,8 +14,7 @@ class TestNotifiable
     public function routeNotificationForApn()
     {
         return [
-            '662cfe5a69ddc65cdd39a1b8f8690647778204b064df7b264e8c4c254f94fdd8',
-            '662cfe5a69ddc65cdd39a1b8f8690647778204b064df7b264e8c4c254f94fdd9',
+            '0851273d15351ca2c6d00834f13c636b00bafcf69372eb093a1ec8a78fb0bad2',
         ];
     }
 
@@ -25,8 +24,7 @@ class TestNotifiable
     public function routeNotificationForApnVoip()
     {
         return [
-            '662cfe5a69ddc65cdd39a1b8f8690647778204b064df7b264e8c4c254f94fdd1',
-            '662cfe5a69ddc65cdd39a1b8f8690647778204b064df7b264e8c4c254f94fdd2',
+            '0851273d15351ca2c6d00834f13c636b00bafcf69372eb093a1ec8a78fb0bad2',
         ];
     }
 }
